@@ -227,6 +227,12 @@ footer ul.contacts li {
     background-size: cover;
 }
 
+@media screen and (max-width: 800px) {
+    #hero {
+        display: none;
+    }
+}
+
 #name-head {
 	padding-top: 400px;
 }

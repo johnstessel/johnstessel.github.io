@@ -1830,6 +1830,20 @@ aside .thumb figure {
     background: #00ACED;
     background: #2FBBED;
 }
+.btn-share-lg:hover .icon-s-instagram:after,
+.btn-share-md:hover .icon-s-instagram:after,
+.btn-share-sm:hover .icon-s-instagram:after,
+.btn-share-xs:hover .icon-s-instagram:after {
+    background: #125688;
+    background: #125688;
+}
+.btn-share-lg:hover .icon-s-youtube:after,
+.btn-share-md:hover .icon-s-youtube:after,
+.btn-share-sm:hover .icon-s-youtube:after,
+.btn-share-xs:hover .icon-s-youtube:after {
+    background: #e52d27;
+    background: #e52d27;
+}
 .btn-share-lg p,
 .btn-share-md p,
 .btn-share-sm p,

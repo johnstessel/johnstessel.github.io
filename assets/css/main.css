@@ -229,7 +229,8 @@ footer ul.contacts li {
 
 @media screen and (max-width: 800px) {
     #hero {
-        display: none;
+        background: none;
+        background-color: #F2F5F7;
     }
 }
 
